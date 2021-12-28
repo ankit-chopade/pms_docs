@@ -1,0 +1,14 @@
+Includes three types of registration: 
+(1) Physician
+		|->
+	
+(2) Nurse
+
+	1.The user registration of Physician, admin, and nurse will happen through ‘Admin module'
+	2.The user registration of patient registration will happen through ‘Register User Screen’.
+	3.Login Screen and user registration page both lies on the same default screen, where Login screen is placed in “Already a registered user” section; 
+	whereas new user registration is placed in “New to CT General Hospital” section.
+	4.registration of Provider’s -> ‘Admin module’ -> Physicians, nurses and admin
+	
+(3) Patient
+
